@@ -7,9 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="bbb">
+	<form action="ccc">
+	<%
+	request.setAttribute("isForward", new Boolean(true));
+	%>
 		<p>환영합니다.</p>
-		<button type="submit">리다이렉트</button>
+		<button type="submit">포워드</button>
 	</form>
 </body>
 </html>

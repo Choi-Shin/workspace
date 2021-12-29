@@ -5,8 +5,12 @@ INDEX VERSION 1.131
 /응답제어(redirect)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2616194911.index
 /응답제어(redirect)/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2415367429.index
+/응답제어(forward)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/219612008.index
 /Client에서 Server로 데이터 보내기/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/996334969.index
+/응답제어(forward)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/690343429.index
 /Client에서 Server로 데이터 보내기/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1116539263.index

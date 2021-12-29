@@ -7,7 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-	bbb 요청으로 "redirect/:aaa" 호출<br>
-	현재 aaa.jsp 파일로 리다이렉트
+<%
+	Boolean a = (Boolean)request.getAttribute("isForward");
+%>
+	ccc 요청으로 "forward/:aaa" 호출<br>
+	현재 aaa.jsp 파일로 포워드 되었음.<br>
+	isForward??? <%=a %>
 </body>
 </html>
