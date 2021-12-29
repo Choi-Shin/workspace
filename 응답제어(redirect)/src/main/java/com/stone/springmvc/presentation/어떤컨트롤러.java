@@ -9,15 +9,13 @@ import com.stone.springmvc.common.Board;
 @Controller
 public class 어떤컨트롤러 {
 	
-	@RequestMapping("ccc")
-	ModelAndView c() {
-		ModelAndView 모델앤뷰 = new ModelAndView();
-		모델앤뷰.setViewName("forward:/aaa");
-		return 모델앤뷰;
+	@RequestMapping("bbb")
+	String B() {
+		return "redirect:/aaa";
 	}
 	
 	@RequestMapping("aaa")
-	void a() {
-		System.out.println("포워드 a성공");
+	String A() {
+		return null;
 	}
 }
