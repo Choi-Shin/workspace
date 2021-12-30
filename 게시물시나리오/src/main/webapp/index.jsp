@@ -10,7 +10,7 @@
 	<form action="게시물등록준비">
 		<button type="submit">게시물등록</button>
 	</form>
-	<form action="목록">
+	<form action="게시물목록출력">
 		<button type="submit">게시물목록</button>
 	</form>
 </body>

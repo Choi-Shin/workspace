@@ -25,6 +25,10 @@ public class 어떤컨트롤러 {
 
 	@RequestMapping("게시물목록출력")
 	String 게시물목록출력하다(Board board) {
-		return ""
+		return "게시물목록창";
+	}
+	
+	@RequestMapping("목록지우기")
+	void 목록지우다() {
 	}
 }
