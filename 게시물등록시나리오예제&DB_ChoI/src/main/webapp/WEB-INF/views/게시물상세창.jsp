@@ -14,6 +14,7 @@ Board board = (Board)request.getAttribute("board");
 <h1>게시물 상세</h1>
 제목: ${board.title}<br>
 내용: <textarea rows="5" cols="25" readonly="readonly">${board.contents}</textarea><br>
-<a href="list">목록</a>
+<a href="list">목록</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="delete?no=${board.no}">삭제</a>
 </body>
 </html>

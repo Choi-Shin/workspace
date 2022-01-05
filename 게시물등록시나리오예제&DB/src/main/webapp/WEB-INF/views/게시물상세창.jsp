@@ -1,7 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ page import="com.stone.springmvc.common.Board" %>
-<%  Board board = (Board)request.getAttribute("board");  %>    
+<%  Board board = (Board)request.getAttribute("board");  %>   
+<%
+	String success = (String)request.getAttribute("success");
+%> 
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +12,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%=success %>
 	<h1>게시물 상세</h1>
 제목:<%= board.getTitle() %>	<br>
 내용<textarea cols=25 rows=5 readonly ><%= board.getContents() %></textarea>

@@ -9,9 +9,11 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.mysql.cj.protocol.Resultset;
+import org.springframework.stereotype.Repository;
+
 import com.stone.springmvc.common.Board;
 
+@Repository
 public class 게시물DAO {
 
 	private Connection conn;
@@ -113,20 +115,27 @@ public class 게시물DAO {
 		return 0;
 	}
 
-	public boolean 목록지우다() {
+	public void 목록지우다() {
 		String sql = "TRUNCATE TABLE board";
 		Statement stmt = null;
-		
-		if(count() > 0) {
-			
-		}
-
 		try {
 			stmt = conn.createStatement();
-			stmt.execute(sql);
-			return true;
+			stmt.executeUpdate(sql);
 		} catch (SQLException e) {
 		}
-		return false;
+	}
+
+	public int 삭제하다(int no) {
+		String sql = "delete from board where no=?";
+		PreparedStatement pstmt = null;
+		
+		try {
+			pstmt = conn.prepareStatement(sql);
+			pstmt.setInt(1, no);
+			pstmt.executeUpdate();
+			return 1;
+		} catch (SQLException e) {
+		}
+		return 0;
 	}
 }
