@@ -7920,7 +7920,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -7942,7 +7942,7 @@
 									"visible": null,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -7964,7 +7964,7 @@
 									"visible": false,
 									"font": "Arial;12;0",
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
@@ -14146,7 +14146,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 61,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "«Service»"
 																		},
@@ -14159,7 +14159,7 @@
 																			"font": "Arial;13;1",
 																			"left": 445,
 																			"top": 76,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "게시물관리"
 																		},
@@ -14172,7 +14172,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 91,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "(from service)"
 																		},
@@ -14193,7 +14193,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 56,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+ItSQ/7JtGu4="
@@ -14220,7 +14220,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 109,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 10
 																},
 																{
@@ -14245,7 +14245,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 124,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물등록준비하다(): void",
 																			"horizontalAlignment": 0
@@ -14262,7 +14262,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 139,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물목록을수집하다(): List<Board>",
 																			"horizontalAlignment": 0
@@ -14279,7 +14279,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 154,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을등록하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -14296,7 +14296,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 169,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을조회하다(no int): Board",
 																			"horizontalAlignment": 0
@@ -14305,7 +14305,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 119,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 68
 																},
 																{
@@ -14345,7 +14345,7 @@
 															"containerChangeable": true,
 															"left": 440,
 															"top": 56,
-															"width": 218.83251953125,
+															"width": 229.38134765625,
 															"height": 131,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -15255,7 +15255,7 @@
 																			"font": "Arial;13;0",
 																			"left": 549,
 																			"top": 349,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "«DAO»"
 																		},
@@ -15268,7 +15268,7 @@
 																			"font": "Arial;13;1",
 																			"left": 549,
 																			"top": 364,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "게시물DAO"
 																		},
@@ -15281,7 +15281,7 @@
 																			"font": "Arial;13;0",
 																			"left": 549,
 																			"top": 379,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "(from dataservice)"
 																		},
@@ -15302,7 +15302,7 @@
 																	"font": "Arial;13;0",
 																	"left": 544,
 																	"top": 344,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IqpV1LEzjjo="
@@ -15329,7 +15329,7 @@
 																	"font": "Arial;13;0",
 																	"left": 544,
 																	"top": 397,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 10
 																},
 																{
@@ -15354,7 +15354,7 @@
 																			"font": "Arial;13;0",
 																			"left": 549,
 																			"top": 412,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+모두수집하다(): List<Board>()",
 																			"horizontalAlignment": 0
@@ -15371,7 +15371,7 @@
 																			"font": "Arial;13;0",
 																			"left": 549,
 																			"top": 427,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+저장하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -15388,7 +15388,7 @@
 																			"font": "Arial;13;0",
 																			"left": 549,
 																			"top": 442,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+찾는다By번호(번호 int): Board",
 																			"horizontalAlignment": 0
@@ -15397,7 +15397,7 @@
 																	"font": "Arial;13;0",
 																	"left": 544,
 																	"top": 407,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53
 																},
 																{
@@ -15437,7 +15437,7 @@
 															"containerChangeable": true,
 															"left": 544,
 															"top": 344,
-															"width": 179.705322265625,
+															"width": 187.67724609375,
 															"height": 116,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -15809,7 +15809,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 21,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "«Service»"
 																		},
@@ -15822,7 +15822,7 @@
 																			"font": "Arial;13;1",
 																			"left": 485,
 																			"top": 36,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "게시물관리"
 																		},
@@ -15835,7 +15835,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 51,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "(from service)"
 																		},
@@ -15856,7 +15856,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 16,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IuZu1LTFC0Q="
@@ -15883,7 +15883,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 69,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 10
 																},
 																{
@@ -15908,7 +15908,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 84,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물등록준비하다(): void",
 																			"horizontalAlignment": 0
@@ -15925,7 +15925,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 99,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물목록을수집하다(): List<Board>",
 																			"horizontalAlignment": 0
@@ -15942,7 +15942,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 114,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을등록하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -15959,7 +15959,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 129,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을조회하다(no int): Board",
 																			"horizontalAlignment": 0
@@ -15968,7 +15968,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 79,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 68
 																},
 																{
@@ -16008,7 +16008,7 @@
 															"containerChangeable": true,
 															"left": 480,
 															"top": 16,
-															"width": 218.83251953125,
+															"width": 229.38134765625,
 															"height": 131,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -16048,8 +16048,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 625,
-																	"top": 236,
+																	"left": 630,
+																	"top": 237,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -16069,8 +16069,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 640,
-																	"top": 234,
+																	"left": 645,
+																	"top": 235,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -16090,8 +16090,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 596,
-																	"top": 241,
+																	"left": 601,
+																	"top": 240,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -16109,7 +16109,7 @@
 																"$ref": "AAAAAAF+IuZu1LTDFfg="
 															},
 															"lineStyle": 1,
-															"points": "597:147;625:343",
+															"points": "603:147;629:343",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu1bTOWAc="
@@ -16203,7 +16203,7 @@
 																"$ref": "AAAAAAF+HZa81NNc33k="
 															},
 															"lineStyle": 1,
-															"points": "401:102;479:94",
+															"points": "401:103;479:94",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu1rTSze8="
@@ -16236,7 +16236,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 477,
+																	"left": 480,
 																	"top": 263,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -16257,8 +16257,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 489,
-																	"top": 271,
+																	"left": 492,
+																	"top": 272,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -16278,7 +16278,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 452,
+																	"left": 455,
 																	"top": 246,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -16297,7 +16297,7 @@
 																"$ref": "AAAAAAF+IuZu1LTDFfg="
 															},
 															"lineStyle": 1,
-															"points": "543:147;387:375",
+															"points": "548:147;388:375",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu1rTWtlA="
@@ -16391,7 +16391,7 @@
 																"$ref": "AAAAAAF+HZa81NNc33k="
 															},
 															"lineStyle": 1,
-															"points": "401:102;479:94",
+															"points": "401:103;479:94",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu17TaA3o="
@@ -16424,7 +16424,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 477,
+																	"left": 480,
 																	"top": 263,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -16445,8 +16445,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 489,
-																	"top": 271,
+																	"left": 492,
+																	"top": 272,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -16466,7 +16466,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 452,
+																	"left": 455,
 																	"top": 246,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -16485,7 +16485,7 @@
 																"$ref": "AAAAAAF+IuZu1LTDFfg="
 															},
 															"lineStyle": 1,
-															"points": "543:147;387:375",
+															"points": "548:147;388:375",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu17TegFY="
@@ -16579,7 +16579,7 @@
 																"$ref": "AAAAAAF+HZa81NNc33k="
 															},
 															"lineStyle": 1,
-															"points": "401:102;479:94",
+															"points": "401:103;479:94",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuZu2LTiec8="
@@ -17442,7 +17442,7 @@
 																			"font": "Arial;13;0",
 																			"left": 421,
 																			"top": 453,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "«DAO»"
 																		},
@@ -17455,7 +17455,7 @@
 																			"font": "Arial;13;1",
 																			"left": 421,
 																			"top": 468,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "게시물DAO"
 																		},
@@ -17468,7 +17468,7 @@
 																			"font": "Arial;13;0",
 																			"left": 421,
 																			"top": 483,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "(from dataservice)"
 																		},
@@ -17489,7 +17489,7 @@
 																	"font": "Arial;13;0",
 																	"left": 416,
 																	"top": 448,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IqsQKrG/Goc="
@@ -17516,7 +17516,7 @@
 																	"font": "Arial;13;0",
 																	"left": 416,
 																	"top": 501,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 10
 																},
 																{
@@ -17541,7 +17541,7 @@
 																			"font": "Arial;13;0",
 																			"left": 421,
 																			"top": 516,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+모두수집하다(): List<Board>()",
 																			"horizontalAlignment": 0
@@ -17558,7 +17558,7 @@
 																			"font": "Arial;13;0",
 																			"left": 421,
 																			"top": 531,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+저장하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -17575,7 +17575,7 @@
 																			"font": "Arial;13;0",
 																			"left": 421,
 																			"top": 546,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+찾는다By번호(번호 int): Board",
 																			"horizontalAlignment": 0
@@ -17584,7 +17584,7 @@
 																	"font": "Arial;13;0",
 																	"left": 416,
 																	"top": 511,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53
 																},
 																{
@@ -17624,7 +17624,7 @@
 															"containerChangeable": true,
 															"left": 416,
 															"top": 448,
-															"width": 179.705322265625,
+															"width": 187.67724609375,
 															"height": 116,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -17672,7 +17672,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 149,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "«Service»"
 																		},
@@ -17685,7 +17685,7 @@
 																			"font": "Arial;13;1",
 																			"left": 445,
 																			"top": 164,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "게시물관리"
 																		},
@@ -17698,7 +17698,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 179,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "(from service)"
 																		},
@@ -17719,7 +17719,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 144,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IuAJLbKheTM="
@@ -17746,7 +17746,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 197,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 10
 																},
 																{
@@ -17771,7 +17771,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 212,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물등록준비하다(): void",
 																			"horizontalAlignment": 0
@@ -17788,7 +17788,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 227,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물목록을수집하다(): List<Board>",
 																			"horizontalAlignment": 0
@@ -17805,7 +17805,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 242,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을등록하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -17822,7 +17822,7 @@
 																			"font": "Arial;13;0",
 																			"left": 445,
 																			"top": 257,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을조회하다(no int): Board",
 																			"horizontalAlignment": 0
@@ -17831,7 +17831,7 @@
 																	"font": "Arial;13;0",
 																	"left": 440,
 																	"top": 207,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 68
 																},
 																{
@@ -17871,7 +17871,7 @@
 															"containerChangeable": true,
 															"left": 440,
 															"top": 144,
-															"width": 218.83251953125,
+															"width": 229.38134765625,
 															"height": 131,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -17911,7 +17911,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 539,
+																	"left": 545,
 																	"top": 357,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -17932,7 +17932,7 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 554,
+																	"left": 560,
 																	"top": 359,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -17953,7 +17953,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 510,
+																	"left": 516,
 																	"top": 352,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -17972,7 +17972,7 @@
 																"$ref": "AAAAAAF+IuAJLbKfQD0="
 															},
 															"lineStyle": 1,
-															"points": "538:275;513:447",
+															"points": "544:275;518:447",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuCACbLY3Og="
@@ -18100,7 +18100,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 363,
-																	"top": 318,
+																	"top": 320,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -18121,7 +18121,7 @@
 																	"visible": null,
 																	"font": "Arial;13;0",
 																	"left": 370,
-																	"top": 331,
+																	"top": 333,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -18142,7 +18142,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 348,
-																	"top": 291,
+																	"top": 293,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -18160,7 +18160,7 @@
 																"$ref": "AAAAAAF+IuAJLbKfQD0="
 															},
 															"lineStyle": 1,
-															"points": "439:267;273:356",
+															"points": "439:269;273:357",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuM2O7Prz0c="
@@ -19161,7 +19161,7 @@
 																			"font": "Arial;13;0",
 																			"left": 317,
 																			"top": 485,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "«DAO»"
 																		},
@@ -19174,7 +19174,7 @@
 																			"font": "Arial;13;1",
 																			"left": 317,
 																			"top": 500,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "게시물DAO"
 																		},
@@ -19187,7 +19187,7 @@
 																			"font": "Arial;13;0",
 																			"left": 317,
 																			"top": 515,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "(from dataservice)"
 																		},
@@ -19208,7 +19208,7 @@
 																	"font": "Arial;13;0",
 																	"left": 312,
 																	"top": 480,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IqlY7rDGDMA="
@@ -19235,7 +19235,7 @@
 																	"font": "Arial;13;0",
 																	"left": 312,
 																	"top": 533,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 10
 																},
 																{
@@ -19260,7 +19260,7 @@
 																			"font": "Arial;13;0",
 																			"left": 317,
 																			"top": 548,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+모두수집하다(): List<Board>()",
 																			"horizontalAlignment": 0
@@ -19277,7 +19277,7 @@
 																			"font": "Arial;13;0",
 																			"left": 317,
 																			"top": 563,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+저장하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -19294,7 +19294,7 @@
 																			"font": "Arial;13;0",
 																			"left": 317,
 																			"top": 578,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+찾는다By번호(번호 int): Board",
 																			"horizontalAlignment": 0
@@ -19303,7 +19303,7 @@
 																	"font": "Arial;13;0",
 																	"left": 312,
 																	"top": 543,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53
 																},
 																{
@@ -19343,7 +19343,7 @@
 															"containerChangeable": true,
 															"left": 312,
 															"top": 480,
-															"width": 179.705322265625,
+															"width": 187.67724609375,
 															"height": 116,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -19391,7 +19391,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 261,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "«Service»"
 																		},
@@ -19404,7 +19404,7 @@
 																			"font": "Arial;13;1",
 																			"left": 349,
 																			"top": 276,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "게시물관리"
 																		},
@@ -19417,7 +19417,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 291,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "(from service)"
 																		},
@@ -19438,7 +19438,7 @@
 																	"font": "Arial;13;0",
 																	"left": 344,
 																	"top": 256,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IuERVbLq/nY="
@@ -19465,7 +19465,7 @@
 																	"font": "Arial;13;0",
 																	"left": 344,
 																	"top": 309,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 10
 																},
 																{
@@ -19490,7 +19490,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 324,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물등록준비하다(): void",
 																			"horizontalAlignment": 0
@@ -19507,7 +19507,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 339,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물목록을수집하다(): List<Board>",
 																			"horizontalAlignment": 0
@@ -19524,7 +19524,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 354,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을등록하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -19541,7 +19541,7 @@
 																			"font": "Arial;13;0",
 																			"left": 349,
 																			"top": 369,
-																			"width": 208.83251953125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을조회하다(no int): Board",
 																			"horizontalAlignment": 0
@@ -19550,7 +19550,7 @@
 																	"font": "Arial;13;0",
 																	"left": 344,
 																	"top": 319,
-																	"width": 218.83251953125,
+																	"width": 229.38134765625,
 																	"height": 68
 																},
 																{
@@ -19590,7 +19590,7 @@
 															"containerChangeable": true,
 															"left": 344,
 															"top": 256,
-															"width": 218.83251953125,
+															"width": 229.38134765625,
 															"height": 131,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -19630,7 +19630,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 439,
+																	"left": 444,
 																	"top": 430,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -19651,7 +19651,7 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 454,
+																	"left": 459,
 																	"top": 433,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -19672,7 +19672,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 410,
+																	"left": 415,
 																	"top": 423,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -19691,7 +19691,7 @@
 																"$ref": "AAAAAAF+IuERVLLoIJs="
 															},
 															"lineStyle": 1,
-															"points": "436:387;415:479",
+															"points": "442:387;419:479",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuERV7L7gng="
@@ -19724,7 +19724,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 368,
+																	"left": 371,
 																	"top": 212,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -19745,7 +19745,7 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 378,
+																	"left": 381,
 																	"top": 201,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -19766,7 +19766,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 347,
+																	"left": 350,
 																	"top": 233,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -19785,7 +19785,7 @@
 																"$ref": "AAAAAAF+HcIlQtZTmrg="
 															},
 															"lineStyle": 1,
-															"points": "332:204;385:255",
+															"points": "334:204;388:255",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuFxj7OHooQ="
@@ -19819,7 +19819,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 255,
-																	"top": 499,
+																	"top": 498,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -19839,8 +19839,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 250,
-																	"top": 513,
+																	"left": 251,
+																	"top": 512,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -19861,7 +19861,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 264,
-																	"top": 470,
+																	"top": 469,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -19879,7 +19879,7 @@
 																"$ref": "AAAAAAF+IqlY7rDEea0="
 															},
 															"lineStyle": 1,
-															"points": "311:508;209:474",
+															"points": "311:507;209:474",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuGd0LOpcCE="
@@ -19913,7 +19913,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 282,
-																	"top": 408,
+																	"top": 410,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -19934,7 +19934,7 @@
 																	"visible": null,
 																	"font": "Arial;13;0",
 																	"left": 288,
-																	"top": 422,
+																	"top": 424,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -19955,7 +19955,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 269,
-																	"top": 381,
+																	"top": 383,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -19973,7 +19973,7 @@
 																"$ref": "AAAAAAF+IuERVLLoIJs="
 															},
 															"lineStyle": 1,
-															"points": "343:371;209:432",
+															"points": "343:373;209:433",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuJssLPJ0VQ="
@@ -19995,6 +19995,14 @@
 													},
 													"name": "게시물 상세창",
 													"stereotype": "View"
+												},
+												{
+													"_type": "UMLClassDiagram",
+													"_id": "AAAAAAF+RpgtR9SKaGw=",
+													"_parent": {
+														"$ref": "AAAAAAF+HZa809M1kNc="
+													},
+													"name": "게시물변경준비하다"
 												}
 											]
 										},
@@ -20043,7 +20051,7 @@
 																			"font": "Arial;13;0",
 																			"left": 117,
 																			"top": 141,
-																			"width": 86.29638671875,
+																			"width": 94.65625,
 																			"height": 13,
 																			"text": "«VO»"
 																		},
@@ -20056,7 +20064,7 @@
 																			"font": "Arial;13;1",
 																			"left": 117,
 																			"top": 156,
-																			"width": 86.29638671875,
+																			"width": 94.65625,
 																			"height": 13,
 																			"text": "Board"
 																		},
@@ -20091,7 +20099,7 @@
 																	"font": "Arial;13;0",
 																	"left": 112,
 																	"top": 136,
-																	"width": 96.29638671875,
+																	"width": 104.65625,
 																	"height": 38,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+HbsoC9WlzAU="
@@ -20128,7 +20136,7 @@
 																			"font": "Arial;13;0",
 																			"left": 117,
 																			"top": 179,
-																			"width": 86.29638671875,
+																			"width": 94.65625,
 																			"height": 13,
 																			"text": "-no: int",
 																			"horizontalAlignment": 0
@@ -20145,7 +20153,7 @@
 																			"font": "Arial;13;0",
 																			"left": 117,
 																			"top": 194,
-																			"width": 86.29638671875,
+																			"width": 94.65625,
 																			"height": 13,
 																			"text": "-title: String",
 																			"horizontalAlignment": 0
@@ -20162,7 +20170,7 @@
 																			"font": "Arial;13;0",
 																			"left": 117,
 																			"top": 209,
-																			"width": 86.29638671875,
+																			"width": 94.65625,
 																			"height": 13,
 																			"text": "-contents: String",
 																			"horizontalAlignment": 0
@@ -20186,7 +20194,7 @@
 																	"font": "Arial;13;0",
 																	"left": 112,
 																	"top": 227,
-																	"width": 96.29638671875,
+																	"width": 104.65625,
 																	"height": 10
 																},
 																{
@@ -20226,7 +20234,7 @@
 															"containerChangeable": true,
 															"left": 112,
 															"top": 136,
-															"width": 96.29638671875,
+															"width": 104.65625,
 															"height": 101,
 															"autoResize": true,
 															"nameCompartment": {
@@ -20691,7 +20699,7 @@
 																			"font": "Arial;13;0",
 																			"left": 173,
 																			"top": 93,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "«Service»"
 																		},
@@ -20704,7 +20712,7 @@
 																			"font": "Arial;13;1",
 																			"left": 173,
 																			"top": 108,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "게시물관리"
 																		},
@@ -20739,7 +20747,7 @@
 																	"font": "Arial;13;0",
 																	"left": 168,
 																	"top": 88,
-																	"width": 226.7861328125,
+																	"width": 229.38134765625,
 																	"height": 38,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+Irmf6rIV5aw="
@@ -20766,7 +20774,7 @@
 																	"font": "Arial;13;0",
 																	"left": 168,
 																	"top": 126,
-																	"width": 226.7861328125,
+																	"width": 229.38134765625,
 																	"height": 10
 																},
 																{
@@ -20791,7 +20799,7 @@
 																			"font": "Arial;13;0",
 																			"left": 173,
 																			"top": 141,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물등록준비하다(): void",
 																			"horizontalAlignment": 0
@@ -20808,7 +20816,7 @@
 																			"font": "Arial;13;0",
 																			"left": 173,
 																			"top": 156,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물목록을수집하다(): List<Board>",
 																			"horizontalAlignment": 0
@@ -20825,7 +20833,7 @@
 																			"font": "Arial;13;0",
 																			"left": 173,
 																			"top": 171,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을등록하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -20842,7 +20850,7 @@
 																			"font": "Arial;13;0",
 																			"left": 173,
 																			"top": 186,
-																			"width": 216.7861328125,
+																			"width": 219.38134765625,
 																			"height": 13,
 																			"text": "+게시물을조회하다(no int): Board",
 																			"horizontalAlignment": 0
@@ -20851,7 +20859,7 @@
 																	"font": "Arial;13;0",
 																	"left": 168,
 																	"top": 136,
-																	"width": 226.7861328125,
+																	"width": 229.38134765625,
 																	"height": 68
 																},
 																{
@@ -20891,7 +20899,7 @@
 															"containerChangeable": true,
 															"left": 168,
 															"top": 88,
-															"width": 226.7861328125,
+															"width": 229.38134765625,
 															"height": 116,
 															"nameCompartment": {
 																"$ref": "AAAAAAF+Irmf6bIUMqE="
@@ -20938,7 +20946,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 181,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "«DAO»"
 																		},
@@ -20951,7 +20959,7 @@
 																			"font": "Arial;13;1",
 																			"left": 485,
 																			"top": 196,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "게시물DAO"
 																		},
@@ -20964,7 +20972,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 211,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "(from dataservice)"
 																		},
@@ -20985,7 +20993,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 176,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAF+IuYCvrQZ/bI="
@@ -21012,7 +21020,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 229,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 10
 																},
 																{
@@ -21037,7 +21045,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 244,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+모두수집하다(): List<Board>()",
 																			"horizontalAlignment": 0
@@ -21054,7 +21062,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 259,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+저장하다(board Board): void",
 																			"horizontalAlignment": 0
@@ -21071,7 +21079,7 @@
 																			"font": "Arial;13;0",
 																			"left": 485,
 																			"top": 274,
-																			"width": 169.705322265625,
+																			"width": 177.67724609375,
 																			"height": 13,
 																			"text": "+찾는다By번호(번호 int): Board",
 																			"horizontalAlignment": 0
@@ -21080,7 +21088,7 @@
 																	"font": "Arial;13;0",
 																	"left": 480,
 																	"top": 239,
-																	"width": 179.705322265625,
+																	"width": 187.67724609375,
 																	"height": 53
 																},
 																{
@@ -21120,7 +21128,7 @@
 															"containerChangeable": true,
 															"left": 480,
 															"top": 176,
-															"width": 179.705322265625,
+															"width": 187.67724609375,
 															"height": 116,
 															"showNamespace": true,
 															"nameCompartment": {
@@ -21160,8 +21168,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 441,
-																	"top": 172,
+																	"left": 442,
+																	"top": 171,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -21181,8 +21189,8 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 445,
-																	"top": 158,
+																	"left": 447,
+																	"top": 157,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -21202,8 +21210,8 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 432,
-																	"top": 201,
+																	"left": 433,
+																	"top": 200,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -21221,7 +21229,7 @@
 																"$ref": "AAAAAAF+Irmf6bITjjo="
 															},
 															"lineStyle": 1,
-															"points": "395:180;479:206",
+															"points": "397:180;479:205",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuYCv7QiWnM="
@@ -21485,7 +21493,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 390,
-																	"top": 333,
+																	"top": 334,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 15,
@@ -21506,7 +21514,7 @@
 																	"visible": null,
 																	"font": "Arial;13;0",
 																	"left": 397,
-																	"top": 346,
+																	"top": 347,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
 																	"distance": 30,
@@ -21527,7 +21535,7 @@
 																	"visible": false,
 																	"font": "Arial;13;0",
 																	"left": 377,
-																	"top": 306,
+																	"top": 307,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
 																	"distance": 15,
@@ -21545,7 +21553,7 @@
 																"$ref": "AAAAAAF+IuYCvrQXzVY="
 															},
 															"lineStyle": 1,
-															"points": "479:278;289:374",
+															"points": "479:280;289:374",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuYUFbRgy0U="
@@ -21578,7 +21586,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 271,
+																	"left": 272,
 																	"top": 269,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -21599,7 +21607,7 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 286,
+																	"left": 287,
 																	"top": 272,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -21620,7 +21628,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 242,
+																	"left": 243,
 																	"top": 264,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -21639,7 +21647,7 @@
 																"$ref": "AAAAAAF+Irmf6bITjjo="
 															},
 															"lineStyle": 1,
-															"points": "270:204;245:343",
+															"points": "271:204;246:343",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuYUFbRk0cQ="
@@ -21672,7 +21680,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 271,
+																	"left": 272,
 																	"top": 269,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -21693,7 +21701,7 @@
 																	},
 																	"visible": null,
 																	"font": "Arial;13;0",
-																	"left": 286,
+																	"left": 287,
 																	"top": 272,
 																	"height": 13,
 																	"alpha": 1.5707963267948966,
@@ -21714,7 +21722,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": 242,
+																	"left": 243,
 																	"top": 264,
 																	"height": 13,
 																	"alpha": -1.5707963267948966,
@@ -21733,7 +21741,7 @@
 																"$ref": "AAAAAAF+Irmf6bITjjo="
 															},
 															"lineStyle": 1,
-															"points": "270:204;245:343",
+															"points": "271:204;246:343",
 															"showVisibility": true,
 															"nameLabel": {
 																"$ref": "AAAAAAF+IuYUFbRo5zc="
@@ -21879,7 +21887,8 @@
 																	"_parent": {
 																		"$ref": "AAAAAAF+Irz9RrJb2dM="
 																	},
-																	"name": "no int"
+																	"name": "no int",
+																	"type": ""
 																},
 																{
 																	"_type": "UMLParameter",
