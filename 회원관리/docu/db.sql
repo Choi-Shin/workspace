@@ -19,7 +19,6 @@ USE `db2` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `db2`.`member` (
   `no` INT NOT NULL AUTO_INCREMENT,
-  `name` VARCHAR(45) NOT NULL,
   `tel` VARCHAR(20) NULL,
   `post` CHAR(5) NULL,
   `address` VARCHAR(45) NULL,
