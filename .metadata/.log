@@ -1307,3 +1307,27 @@ java.net.UnknownHostException: spring.io: nodename nor servname provided, or not
 	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:991)
 	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-01-18 07:34:55.122
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-01-18 07:34:55.124
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-01-18 07:34:55.131
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-01-18 07:34:55.134
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-18 07:34:55.495
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PfNzpvxo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-18 07:34:55.495
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PfNzpvxo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-18 07:34:55.496
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-18 07:34:55.496
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PfNzpvxo => OK
