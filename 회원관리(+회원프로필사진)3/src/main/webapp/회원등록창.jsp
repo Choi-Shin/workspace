@@ -75,7 +75,7 @@ PassWord*<input type="text" name="password" id="password"/><br>
 PassWord2*<input type="text" name="password2" id="password2"/><br>
 E-mail<input type="text" id="email1"/>@
       <select id="email2">
-	    <option value="naver.com">navar.com</option>
+	    <option value="naver.com">naver.com</option>
 	    <option value="daum.net">daum.net</option>
 	    <option value="gmail.com">gmail.com</option>
 	    <option value="직접">직접입력</option>
