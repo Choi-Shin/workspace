@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="shortcut icon" href="#">
 <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
 <script type="text/javascript">
 function 우편번호조회하다(){
@@ -75,7 +76,7 @@ PassWord*<input type="text" name="password" id="password"/><br>
 PassWord2*<input type="text" name="password2" id="password2"/><br>
 E-mail<input type="text" id="email1"/>@
       <select id="email2">
-	    <option value="naver.com">navar.com</option>
+	    <option value="naver.com">naver.com</option>
 	    <option value="daum.net">daum.net</option>
 	    <option value="gmail.com">gmail.com</option>
 	    <option value="직접">직접입력</option>
@@ -85,8 +86,6 @@ E-mail<input type="text" id="email1"/>@
 <input type="submit" value="등록"/>
    
 </form>
-</body>
-</html>
 <script>
 function 그림파일읽어출력하기(이벤트) {
 	var fileInput=이벤트.target;
@@ -115,3 +114,5 @@ function 그림파일읽어출력하기(이벤트) {
 }
 document.querySelector("#profileFile").addEventListener("change", 그림파일읽어출력하기, false);
 </script>
+</body>
+</html>
