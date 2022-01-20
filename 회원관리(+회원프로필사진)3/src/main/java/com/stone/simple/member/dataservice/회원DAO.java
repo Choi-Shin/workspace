@@ -1,7 +1,5 @@
 package com.stone.simple.member.dataservice;
 
-import java.io.File;
-import java.io.InputStreamReader;
 import java.sql.Blob;
 import java.sql.Connection;
 import java.sql.DriverManager;

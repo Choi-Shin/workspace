@@ -1,0 +1,7 @@
+기반 프로젝트:'회원관리' 프로젝트
+학습 사항:
+  -client에서 server의 controller(Handler)로 파일 업로드
+  -업로드된 파일을 화일로 저장-서버의 절대경로를 구해서 
+
+db명:db3 
+<Context path="/" />    
