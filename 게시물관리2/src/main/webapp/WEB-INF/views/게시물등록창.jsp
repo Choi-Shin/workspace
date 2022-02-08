@@ -9,9 +9,9 @@
 <body>
 <h1>게시물 등록</h1>
 
-<form action="" >
- 제목<input type="text" /> <br>
- 내용<textarea cols="25" rows="5"></textarea><br>
+<form action="insert" method="post">
+ 제목<input type="text" name="title"/> <br>
+ 내용<textarea cols="25" rows="5" name="contents"></textarea><br>
  <input type="submit" value="등록" />
 </form>
 </body>

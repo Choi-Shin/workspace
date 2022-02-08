@@ -1,7 +1,7 @@
+<%@page import="com.stone.springmvc.common.Board"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ page import="java.util.List" %> 
-<%@ page import="com.stone.springmvc.common.Board" %>    
 <% 
      List<Board> boards = (List<Board>)request.getAttribute("boards");
      int  현재페이지번호 = (int)request.getAttribute("pageNo");

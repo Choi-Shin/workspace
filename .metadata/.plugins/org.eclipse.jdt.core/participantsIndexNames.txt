@@ -9,20 +9,20 @@ INDEX VERSION 1.131
 /Client에서 Server로 데이터 보내기/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2872775139.index
 /4controller&view_dao/src/main/java
-/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1673502222.index
-/게시물등록시나리오예제&DB/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1685355816.index
 /게시물관리2/src/main/java
-/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2415367429.index
-/응답제어(forward)/src/main/java
-/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1363376978.index
-/회원관리(+회원프로필사진)5/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/228910407.index
 /회원관리(+회원프로필사진)DB에서 이미지 가져와 화면출력/src/main/java
-/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3515553245.index
-/게시물등록시나리오예제&DB_ChoI/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2415367429.index
+/응답제어(forward)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3633844830.index
 /회원관리(+회원프로필사진)DB에서 이미지 가져와 화면출력/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1363376978.index
+/회원관리(+회원프로필사진)5/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3515553245.index
+/게시물등록시나리오예제&DB_ChoI/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1673502222.index
+/게시물등록시나리오예제&DB/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1914338307.index
 /Client에서 Server로 데이터 보내기2(객체)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1565805386.index
@@ -61,24 +61,36 @@ INDEX VERSION 1.131
 /응답제어(redirect)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/132040227.index
 /5controller&view_service_dao2/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1395044733.index
+/로그인관리/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1157134763.index
 /회원관리(이미지업데이트)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/808144082.index
 /게시물관리(페이징게시판2-이전,다음)/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4057893140.index
 /게시물등록시나리오예제/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3360713976.index
+/로그인 후, 게시글 작성,변경,삭제/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1455204524.index
+/로그인 후, 게시글 작성,변경,삭제/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2930755075.index
+/로그인관리/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2231122315.index
 /회원관리/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/165855171.index
 /게시물시나리오/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1966286055.index
 /회원관리(+회원프로필사진)3/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1465783174.index
+/로그인관리/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/690988726.index
 /Controller에서 View지정하기/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1049523013.index
 /회원관리(+회원프로필사진)업로드 파일 DB에 저장/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3334404755.index
 /회원관리(+회원프로필사진)/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/748934205.index
+/로그인 후, 게시글 작성,변경,삭제/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/540558231.index
 /회원관리/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/524707066.index
@@ -111,3 +123,5 @@ INDEX VERSION 1.131
 /3jsp_service_DAO/src/main/java
 /Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3689857253.index
 /회원관리(+회원프로필사진)업로드 파일 DB에 저장/src/main/java
+/Users/macintosh/git/workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/732582434.index
+/로그인 후, 게시글 작성,변경,삭제/src/main/java
